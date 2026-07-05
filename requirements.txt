@@ -1,6 +1,6 @@
 pyrogram==2.0.106
 TgCrypto==1.2.3
-py-tgcalls==0.9.9
+py-tgcalls==2.2.10
 yt-dlp==2023.7.6
 navidrome==0.3
 nest-asyncio==1.5.8
