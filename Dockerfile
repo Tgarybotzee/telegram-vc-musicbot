@@ -1,5 +1,5 @@
 # Use Python 3.9 as the base image
-FROM python:3.9-slim-buster
+FROM python:3.9-slim-bookworm
 
 # 1. Install FFmpeg and Git (Required for music processing)
 RUN apt-get update && \
